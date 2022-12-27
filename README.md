@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on GNN and GAN's
-- 🌱 I’m currently learning DT'S
+- 🌱 I’m currently learning DT's
 - 👯 I’m looking to collaborate on AI based projects
 - 🤔 I’m looking for help with anything AI
 - 💬 Ask me about AI
